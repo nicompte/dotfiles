@@ -1,0 +1,16 @@
+'editor':
+  'fontSize': 14
+  'fontFamily': 'Menlo-Regular'
+'core':
+  'themes': [
+    'atom-light-ui'
+    'railscasts-syntax'
+  ]
+'exception-reporting':
+  'userId': '3798929e-844e-ba00-0161-ee2c244ecfd3'
+'release-notes':
+  'viewedVersion': '0.95.0'
+'welcome':
+  'showOnStartup': false
+'metrics':
+  'userId': '8ffb3b6977e3d65b3a6fbd148e2d649f1983758a'

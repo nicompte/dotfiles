@@ -1,0 +1,35 @@
+# Install native apps
+
+install caskroom/cask/brew-cask
+tap caskroom/versions
+
+cask install dropbox # 2> /dev/null
+cask install chromium
+cask install epic
+cask install skype
+cask install viber
+
+cask install iterm2
+cask install atom
+cask install brackets
+cask install heroku-toolbelt
+cask install mongohub
+cask install github
+
+cask install alfred
+cask install rightzoom
+cask install bettertouchtool
+cask install appcleaner
+cask install clamxav
+cask install the-unarchiver
+
+cask install truecrypt
+
+cask install spotify
+cask install spotifree
+cask install vlc
+cask install utorrent
+cask install jdownloader
+cask install calibre
+cask install linein
+cask install musescore

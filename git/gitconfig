@@ -1,0 +1,11 @@
+[user]
+	name = Nicolas Barbotte
+	email = nicolas@barbotte.net
+[push]
+	default = simple
+[alias]
+	st = status
+	c = commit -m
+	a = add .
+[core]
+	excludesfile = /Users/nico/.gitignore_global
