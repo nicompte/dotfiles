@@ -15,4 +15,6 @@ Set dotfiles for Atom, iterm2 and zsh, using symlinks.
 
 ## How to launch
 
-Just edit the configuration files and launch `source setup.sh`.
+Download: `cd; curl -#L https://github.com/nicompte/dotfiles/tarball/master | tar -xzv`
+
+Edit the configuration files, and launch: `source setup.sh`.
