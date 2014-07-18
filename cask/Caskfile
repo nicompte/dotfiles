@@ -19,6 +19,7 @@ cask install github
 cask install alfred
 cask install rightzoom
 cask install bettertouchtool
+cask install karabiner
 cask install appcleaner
 cask install clamxav
 cask install the-unarchiver
